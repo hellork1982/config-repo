@@ -1,1 +1,2 @@
-
+goodbye:
+  message: "Hello from config server Production !!!"
